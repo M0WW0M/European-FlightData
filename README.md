@@ -3,12 +3,13 @@ A place to share, get and view the flight data of student rocket teams all over 
 # Repo Structure
 ```
 European-FlightData/
-├─ Teamname - Rocketname/
-│  ├─ Flightdata source 1/
+├─ Teamname/
+│  ├─ Rocketname/
+│  │  ├─ Flightdata source 1/
+│  │  │  ├─ README.md
+│  │  ├─ Flightdata source 2/
+│  │  │  ├─ README.md
 │  │  ├─ README.md
-│  ├─ Flightdata source 2/
-│  │  ├─ README.md
-│  ├─ README.md
 ```
 The README.md file of each flight should describe the flight parameters, like max altitude and max velocity.
 
